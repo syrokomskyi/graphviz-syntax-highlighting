@@ -16,8 +16,6 @@ _rus_
 
 Подсветка синтаксиса языка [Graphviz](http://graphviz.org) для [Notepad++](http://notepad-plus-plus.org).
 
-По документации http://graphviz.org/Documentation.php
-
 
 ## Установка
 
@@ -29,4 +27,4 @@ _rus_
 
 
 
-![Demo Graphviz syntax highlighting for Notepad++](https://raw.github.com/savdalion/graphviz-syntax-highlighting/master/doc/demo.png)
+![Demo Graphviz syntax highlighting for Notepad++](https://raw.github.com/signmotion/graphviz-syntax-highlighting/master/doc/demo.png)
