@@ -6,7 +6,7 @@
 - @site Graphviz  > http://graphviz.org
 - @site Notepad++ > http://notepad-plus-plus.org
 - 
-- @author jingkaimori, wuyiheng6@163.com
+- @author jingkaimori, c
 -->
 <NotepadPlus>
     <UserLang name="Graphviz" ext=".gv;.dot" udlVersion="2.1">
