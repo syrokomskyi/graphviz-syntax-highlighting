@@ -1,5 +1,5 @@
 [Graphviz](http://graphviz.org) syntax highlighting for [Notepad++](http://notepad-plus-plus.org).
-Based on the Graphviz documentation > http://graphviz.org/Documentation.php
+Based on the Graphviz documentation > http://graphviz.org/documentation/
 
 
 ## Installation
@@ -12,19 +12,21 @@ Based on the Graphviz documentation > http://graphviz.org/Documentation.php
 
 
 
-_rus_
+_chn_
+基于Graphviz文档 > http://graphviz.org/documentation/
 
-Подсветка синтаксиса языка [Graphviz](http://graphviz.org) для [Notepad++](http://notepad-plus-plus.org).
-
-
-## Установка
-
-1. Загрузите файл 'graphviz-notepad-udl.xml'.
-2. Откройте в Notepad++ меню Синтаксис / Задать свой язык / Импортировать.
-3. Выберите загруженный файл.
-4. Наслаждайтесь построением графов.
+本地文档（如果有）在（graphviz安装目录）/share/graphviz/doc/html/info/index.html
 
 
+## 安装
+1. 下载文件'graphviz-notepad-udl.xml'。
+2. 打开Notepad++，按照图示操作
+步骤一：单击“语言”菜单项；步骤二：单击“自定义语言格式...”菜单项
+![步骤一：单击“语言”菜单项；步骤二：单击“自定义语言格式...”菜单项](https://raw.github.com/jingkaimori/graphviz-syntax-highlighting/master/doc/import_step1.png)
+步骤三：单击“导入”按钮
+![步骤三：单击“导入”按钮](https://raw.github.com/jingkaimori/graphviz-syntax-highlighting/master/doc/import_step2.png)
+3. 选择文件'graphviz-notepad-udl.xml'。
+4. 祝愉快:-)
 
 
-![Demo Graphviz syntax highlighting for Notepad++](https://raw.github.com/signmotion/graphviz-syntax-highlighting/master/doc/demo.png)
+![Demo Graphviz syntax highlighting for Notepad++](https://raw.github.com/jingkaimori/graphviz-syntax-highlighting/master/doc/demo.png)
