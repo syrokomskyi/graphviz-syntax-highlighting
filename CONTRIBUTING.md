@@ -92,7 +92,7 @@ If you introduce a **breaking change** the conventional commit type MUST end wit
 mark (e.g. `feat!: Remove the argument from ZipLoader.getFile()`).
 
 [GitHub issue]: https://github.com/signmotion/graphviz-syntax-highlighting/issues/new
-[GitHub issues]: https://github.com/signmotion/graphviz-syntax-highlighting/issues/new
+[GitHub issues]: https://github.com/signmotion/graphviz-syntax-highlighting/issues
 [PRs]: https://github.com/signmotion/graphviz-syntax-highlighting/pulls
 [fork guide]: https://guides.github.com/activities/forking/#fork
 [conventional commit]: https://www.conventionalcommits.org
