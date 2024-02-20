@@ -27,7 +27,7 @@ Graphviz is open source graph visualization software. Graph visualization is a w
 
 ## Showcase
 
-![Demo Graphviz syntax highlighting for Notepad++](https://raw.github.com/signmotion/graphviz-syntax-highlighting/master/images/demo.png)
+![Demo Graphviz syntax highlighting for Notepad++](https://raw.githubusercontent.com/signmotion/graphviz-syntax-highlighting/master/images/demo.webp)
 
 ## Welcome
 
